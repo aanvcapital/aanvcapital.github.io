@@ -1,0 +1,10 @@
+#
+# robots.txt for www.aanvc.com
+#
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.aanvc.com/sitemap.xml
+User-agent:*
+Allow: /
