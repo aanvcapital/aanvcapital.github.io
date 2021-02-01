@@ -1,0 +1,43 @@
+{
+    "title": "Aanvc",
+    "name": "aanvcapital",
+    "version": "1.0.1",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "We Invest Solely In Disruptive Innovation",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://www.aanvc.com",
+    "license": "UNLICENSED",
+    "author": "Aanvc",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aanvcapital/aanvcapital.github.io.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.5.3",
+        "bufferutil": "^4.0.3",
+        "jquery": "3.5.1",
+        "popper.js": "^1.16.1",
+        "utf-8-validate": "^5.0.4"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.13",
+        "del": "6.0.0",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "7.0.1",
+        "gulp-clean-css": "4.3.0",
+        "gulp-header": "2.0.9",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "2.0.0",
+        "gulp-sass": "4.1.0",
+        "merge-stream": "2.0.0"
+    }
+}
