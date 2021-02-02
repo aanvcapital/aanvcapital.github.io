@@ -3,7 +3,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, $secondary 0%, $primary 100%);
+  background: linear-gradient(0deg, $secondary 0%, $primary 50%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -47,6 +47,18 @@ header.masthead {
     width: 30rem;
     top: -5rem;
     right: 35%;
+  }
+  .bg-circle-5 {
+    height: 5rem;
+    width: 55rem;
+    top: -15rem;
+    right: 90%;
+  }
+  .bg-circle-6 {
+    height: 5rem;
+    width: 5rem;
+    top: -10rem;
+    right: 20%;
   }
 }
 
